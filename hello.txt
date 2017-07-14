@@ -1,5 +1,7 @@
-hell! git
+﻿hell! git
 
 Gitの操作方法について学んでいます。
 branch_aを新しく作ってbranch_aを編集しています。
 breanch_aの作業を終了しました。
+
+branch_cを作ってみたが。
